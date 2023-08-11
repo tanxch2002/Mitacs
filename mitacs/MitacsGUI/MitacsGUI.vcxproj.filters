@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MitacsGUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MitacsGUIDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Global_variables.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generate_energy_landscape.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="write_on_files.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="calculate_Boltzman_dist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="create_rate_matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="set_output_matrix_at_different_T.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solve_rate_matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="check_situation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solve_eigen_system.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solve_ODE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="find_resonant_well.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="order_well_vs_frequency.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hole_calculation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="convert_well_to_frequency.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bin_frequency.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="check_frequency_range.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MitacsGUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MitacsGUIDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generate_energy_landscape.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_Boltzman_dist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="create_rate_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set_output_matrix_at_different_T.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solve_rate_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3Dto1D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="check_situation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solve_eigen_system.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solve_ODE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="write_on_files.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_resonant_well.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="order_well_vs_frequency.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hole_calculation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convert_well_to_frequency.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_frequency.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="check_frequency_range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MitacsGUI.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MitacsGUI.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MitacsGUI.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

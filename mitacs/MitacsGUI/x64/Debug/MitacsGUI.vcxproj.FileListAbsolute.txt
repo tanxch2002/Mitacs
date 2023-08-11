@@ -1,0 +1,3 @@
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\MITACS backup December 2\MitacsGUI\x64\Debug\MitacsGUI.vcxproj.CopyComplete
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\December 2022\MitacsGUI\x64\Debug\MitacsGUI.vcxproj.CopyComplete
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\x64\Debug\MitacsGUI.vcxproj.CopyComplete

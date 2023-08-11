@@ -1,0 +1,17 @@
+﻿  MitacsGUIDlg.cpp
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(445,21): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(728,117): warning C4244: “参数”: 从“double”转换到“const size_t”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(427,17): warning C4101: “end”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1029,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1266,71): warning C4244: “参数”: 从“double”转换到“const size_t”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1200,16): warning C4101: “averaged_probability_in_resonant_well”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1197,8): warning C4101: “counter_burn_number”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1201,16): warning C4101: “probabilities_in_each_frequency_step”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1197,29): warning C4101: “summation_burn_number”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1385,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1530,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1633,9): warning C4101: “total_time”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1634,6): warning C4101: “st_well”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1631,28): warning C4101: “resonant_frequency”: 未引用的局部变量
+C:\Users\tanxch\OneDrive\桌面\mitacs\MitacsGUI\MitacsGUIDlg.cpp(1631,9): warning C4101: “current_frequency”: 未引用的局部变量
+  MitacsGUI.vcxproj -> C:\Users\tanxch\OneDrive\桌面\mitacs\x64\Debug\MitacsGUI.exe

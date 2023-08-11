@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  generate_energy_landscape.cpp
+  MitacsGUI.cpp
+  MitacsGUIDlg.cpp
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\Mitacs GIU backup Nov 13\MitacsGUI\MitacsGUIDlg.cpp(445,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned long', possible loss of data
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\Mitacs GIU backup Nov 13\MitacsGUI\MitacsGUIDlg.cpp(427,17): warning C4101: 'end': unreferenced local variable
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\Mitacs GIU backup Nov 13\MitacsGUI\MitacsGUIDlg.cpp(474,6): warning C4101: 'lambda_counter': unreferenced local variable
+C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\Mitacs GIU backup Nov 13\MitacsGUI\MitacsGUIDlg.cpp(471,9): warning C4101: 'simulation_time': unreferenced local variable
+  Generating Code...
+  MitacsGUI.vcxproj -> C:\Users\Valter Zazubovits\Documents\Visual Studio 2019\Projects\Mitacs GIU backup Nov 13\Debug\MitacsGUI.exe
